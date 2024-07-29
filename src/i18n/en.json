@@ -1,0 +1,21 @@
+{
+  "common": {
+    "Balance": "Saldo",
+    "History": "History",
+    "TopTips": "Silakan pergi ke bagian bawah halaman untuk menyetujui Syarat & Ketentuan.",
+    "abnormal": "Terdapat kendala pada sistem. Mohon login dan coba kembali.",
+    "Admin_Fee": "Biaya Admin",
+    "Free": "Gratis",
+    "FREE": "GRATIS",
+    "Total": "Total",
+    "Message_title": "Pesan (Opsional)",
+    "message_placeholder": "Contoh: bayar makan, nonton, hadiah.",
+    "request_timeout": "Permintaan timed out, silakan coba lagi!",
+    "new": "BARU",
+    "Admin_fee": "Biaya admin ",
+    "Show_Balance": "Lihat Saldo",
+    "I_got_it": "Mengerti!",
+    "Later": "Nanti",
+    "Cancel": "Batal"
+  }
+}

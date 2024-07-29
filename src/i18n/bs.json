@@ -1,0 +1,21 @@
+{
+  "common": {
+    "Balance": "Balance",
+    "History": "History",
+    "TopTips": "Please go to the bottom of the page to agree to the Terms & Conditions.",
+    "I_got_it": "Got it!",
+    "abnormal": "The operation is abnormal, please log in again and try again.",
+    "Admin_Fee": "Admin Fee",
+    "Free": "Free",
+    "FREE": "FREE",
+    "Total": "Total",
+    "Message_title": "Message (Optional)",
+    "message_placeholder": "Example: bayar makan, nonton, hadiah.",
+    "request_timeout": "Request time out, please try again!",
+    "new": "NEW",
+    "Admin_fee": "Admin fee ",
+    "Show_Balance": "Show Balance",
+    "Later": "Later",
+    "Cancel": "Cancel"
+  }
+}
